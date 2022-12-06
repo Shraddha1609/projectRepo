@@ -1,0 +1,14 @@
+.hero
+{
+  background-image: url("/assets/is.jpg");
+    width: 100%;
+    height: calc(100vh - 110px);
+    background-size: cover;
+    position: relative;
+    padding: 185px;
+    border-radius: 20px;
+  
+}
+h1{
+  color:white;
+}

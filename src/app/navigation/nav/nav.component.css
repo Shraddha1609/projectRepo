@@ -1,0 +1,9 @@
+nav{
+    border-radius: 20px;
+}
+
+.image{
+    position: relative;
+    min-height :100%;
+    max-width:50%;
+}
